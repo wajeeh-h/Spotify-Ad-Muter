@@ -1,6 +1,5 @@
 # Spotify-Ad-Muter
-An AutoHotkey script that mutes Spotify when an ad begins playing. 
-- Give your ears a break
+An AutoHotkey script that mutes Spotify when an ad begins playing; give your ears a break.
 
 # Requirements
 - [AutoHotkey](https://www.autohotkey.com/)
