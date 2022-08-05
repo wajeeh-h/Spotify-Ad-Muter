@@ -2,7 +2,7 @@
 An AutoHotkey script to mute Spotify when an ad begins playing. 
 
 # Requirements
-- AutoHotkey
+- [AutoHotkey](https://www.autohotkey.com/)
 
 # Installation
 - Download and run `muter.ahk`
